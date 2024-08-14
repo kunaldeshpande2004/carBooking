@@ -14,7 +14,7 @@ export default function Booking() {
     }
     useEffect(()=>{
         try{
-         axios.get('http://localhost:8000/Bookings',{params:{
+         axios.get('https://carbooking-backend-51nf.onrender.com/Bookings',{params:{
             name:name }
         }).then((res)=>{
           console.log(res.data)

@@ -21,7 +21,7 @@ const amount = price*hours
 const history =useNavigate();
 const confirm = async()=>{
   try{
-    await axios.post('http://localhost:8000/confirm',{
+    await axios.post('https://carbooking-backend-51nf.onrender.com/confirm',{
       name :name,
       car:car,
      fromDate: fromDate,

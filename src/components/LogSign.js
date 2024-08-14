@@ -22,7 +22,7 @@ export default function LogSign() {
     else{
    
     try{
-      await axios.post('http://localhost:8000/logsignin',{
+      await axios.post('https://carbooking-backend-51nf.onrender.com/logsignin',{
         name:name,
         password:password,
         email:email,
@@ -56,7 +56,7 @@ export default function LogSign() {
     }
     else{
     try{
-      await axios.post('http://localhost:8000/logsignin',{
+      await axios.post('https://carbooking-backend-51nf.onrender.com/logsignin',{
         name:name,
         password:password,
         email:email,

@@ -19,7 +19,7 @@ export default function Footer() {
       message.error('fill all the details first')
     }else{
       try{
-        const response= await axios.post('http://localhost:8000/sendEmail',{
+        const response= await axios.post('https://carbooking-backend-51nf.onrender.com/sendEmail',{
           name:name,
           email:email,
           text:text

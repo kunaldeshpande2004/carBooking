@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carBooking/static/css/main.b96624be.css",
-    "main.js": "/carBooking/static/js/main.0d3d68e9.js",
+    "main.js": "/carBooking/static/js/main.a56eb3a1.js",
     "static/js/453.5c43f4dd.chunk.js": "/carBooking/static/js/453.5c43f4dd.chunk.js",
     "static/media/img13.jpg": "/carBooking/static/media/img13.f703d6eddf32a7d359d2.jpg",
     "static/media/img26.jpg": "/carBooking/static/media/img26.500efef8ed8ec5e90bc0.jpg",
@@ -24,11 +24,11 @@
     "static/media/img30.jpg": "/carBooking/static/media/img30.3965d3f1ea380d3cfc57.jpg",
     "index.html": "/carBooking/index.html",
     "main.b96624be.css.map": "/carBooking/static/css/main.b96624be.css.map",
-    "main.0d3d68e9.js.map": "/carBooking/static/js/main.0d3d68e9.js.map",
+    "main.a56eb3a1.js.map": "/carBooking/static/js/main.a56eb3a1.js.map",
     "453.5c43f4dd.chunk.js.map": "/carBooking/static/js/453.5c43f4dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b96624be.css",
-    "static/js/main.0d3d68e9.js"
+    "static/js/main.a56eb3a1.js"
   ]
 }
